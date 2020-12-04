@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/restwithdignity/static/css/main.cb4ef030.chunk.css",
+    "main.js": "/restwithdignity/static/js/main.a626d758.chunk.js",
+    "main.js.map": "/restwithdignity/static/js/main.a626d758.chunk.js.map",
+    "runtime~main.js": "/restwithdignity/static/js/runtime~main.12f4d8ec.js",
+    "runtime~main.js.map": "/restwithdignity/static/js/runtime~main.12f4d8ec.js.map",
+    "static/css/2.48e152d1.chunk.css": "/restwithdignity/static/css/2.48e152d1.chunk.css",
+    "static/js/2.69898e7c.chunk.js": "/restwithdignity/static/js/2.69898e7c.chunk.js",
+    "static/js/2.69898e7c.chunk.js.map": "/restwithdignity/static/js/2.69898e7c.chunk.js.map",
+    "index.html": "/restwithdignity/index.html",
+    "precache-manifest.eca221c742bc38caf8d23e2d59515e72.js": "/restwithdignity/precache-manifest.eca221c742bc38caf8d23e2d59515e72.js",
+    "service-worker.js": "/restwithdignity/service-worker.js",
+    "static/css/2.48e152d1.chunk.css.map": "/restwithdignity/static/css/2.48e152d1.chunk.css.map",
+    "static/css/main.cb4ef030.chunk.css.map": "/restwithdignity/static/css/main.cb4ef030.chunk.css.map",
+    "static/media/index.scss": "/restwithdignity/static/media/slick.f97e3bbf.svg"
+  }
+}
